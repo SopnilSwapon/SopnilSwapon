@@ -6,7 +6,7 @@ My journey in software engineering is driven by continuous exploration and the p
 
 **Skills:**  REACT / JS / NodeJS / ExpressJS / MongoDB / Tailwind / HTML / CSS / React Hook Form / Tanstack Query
 
-- 🔭 I’m currently working on this project "PressLink" 
+- 🔭 I’m currently working on a company's project with a team.
 - 🌱 I’m currently learning NextJs 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: 
