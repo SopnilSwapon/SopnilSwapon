@@ -4,7 +4,7 @@ My name is Md. Sapon Mia, a dedicated individual with a fervent passion for soft
 
 My journey in software engineering is driven by continuous exploration and the pursuit of mastery in these languages and frameworks. Committed to ongoing growth and contribution, I am eager to transition into a career where I can make meaningful strides in this dynamic field.
 
-**Skills:**  REACT / JS / NodeJS / ExpressJS / MongoDB / Tailwind / HTML / CSS / React Hook Form / Tanstack Query
+**Skills:**  REACT / JavaSript / TypeScript / NextJs / NodeJS / ExpressJS / MongoDB / Tailwind / HTML / CSS / React Hook Form / Tanstack Query
 
 - 🔭 I’m currently working on a company's project with a team.
 - 🌱 I’m currently learning NextJs 
