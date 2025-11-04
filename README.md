@@ -5,7 +5,7 @@ Additionally, I have practical experience with NodeJS, ExpressJS, MySQL, Postgre
 
 My journey in software engineering is driven by continuous exploration and the pursuit of mastery in these languages and frameworks. Committed to ongoing growth and contribution, I am eager to transition into a career where I can make meaningful strides in this dynamic field.
 
-**Skills:**  REACT / Nextjs / JavaSript / TypeScript / Zustand / RTK Query / Context Provider / NodeJS / ExpressJS / MySQL / Postgress / MongoDB / Tailwind / Material UI / Shadcn UI / Tasntack Router / React Hook Form / Tanstack Query / CSS3 / HTML5
+**Skills:**  Reactjs / Nextjs / JavaSript / TypeScript / Zustand / RTK Query / Context Provider / NodeJS / ExpressJS / MySQL / Postgress / MongoDB / Tailwind / Material UI / Shadcn UI / Tasntack Router / React Hook Form / Tanstack Query / CSS3 / HTML5
 
 - 🔭 I’m currently working on a company's project with a team.
 - 🌱 I’m currently learning MySQL 
