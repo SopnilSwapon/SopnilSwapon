@@ -16,4 +16,3 @@ My journey in software engineering is driven by continuous exploration and the p
 - 📫 How to reach me: 
   - Email: sopnilswapon1@gmail.com
   - WhatsApp: +8801568337128 
-- ⚡ Fun fact: I have a background in Chemistry, but my passion for coding led me to become a frontend developer!
