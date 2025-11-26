@@ -2,7 +2,7 @@
 
 Hi there,
 
-my name is Md. Sapon Mia. I'm a Frontend Developer with 1+ years of professional experience, dedicated to building modern, user-friendly, and scalable applications. Despite my unconventional background in Chemistry, I have immersed myself deeply in learning and mastering HTML, CSS, Tailwind, JavaScript, TypeScript, ReactJS, and Next.js.
+My name is Md. Sapon Mia. I'm a Frontend Developer with 1+ years of professional experience, dedicated to building modern, user-friendly, and scalable applications. Despite my unconventional background in Chemistry, I have immersed myself deeply in learning and mastering HTML, CSS, Tailwind, JavaScript, TypeScript, ReactJS, and Next.js.
 
 Additionally, I have practical experience with NodeJS, ExpressJS, MySQL, PostgreSQL, MongoDB, and JWT, particularly in CRUD operations and backend integrations. My passion lies in solving real-world problems through code, continuously learning, and delivering impactful solutions.
 
